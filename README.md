@@ -78,8 +78,4 @@ Due to GitHub’s 25MB limit, the full Excel workbook is hosted externally:
 - Power Pivot for relationships
 - Slicers, Pivot Charts, RFM Scoring
 
----
-
-## 📬 Contact
-Feel free to reach out for feedback or collaboration!
 
